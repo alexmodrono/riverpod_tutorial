@@ -1,6 +1,9 @@
 # riverpod_tutorial
 
-A new Flutter project.
+A Flutter project explaining how to fetch remote data from a remote API using riverpod's `FutureProvider`.
+
+The final result is as shown below:
+![final-app gif](https://user-images.githubusercontent.com/28487357/187281375-05435ee6-04ae-466f-98e7-68677f1fd06f.gif)
 
 ## Getting Started
 
